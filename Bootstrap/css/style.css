@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito:200,300,regular,500,600,700,800,900,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+body {
+  font: Nunito;
+  font-size: 20px;
+}
+.navbar {
+  background-color: #FECE00;
+}
+.quem-somos {
+  background-color: #0375B4;
+  color: white;
+}
+.margin {
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+.parceiros {
+  background-color: #66B9BF;
+}
+.bg-footer {
+  background-color: #262228;
+  color: white;
+}
